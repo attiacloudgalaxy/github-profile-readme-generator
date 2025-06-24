@@ -98,7 +98,7 @@ You can preview the README too.
 ```bash
 git clone https://github.com/rahuldkjain/github-profile-readme-generator.git
 ```
-
+#$##$#
 2. Change the working directory
 
 ```bash
